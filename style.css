@@ -11,7 +11,7 @@ body {
     line-height: 1.6;
     margin: 0;
     padding: 0;
-    background-color: #fdf3d0;
+    background-color: #ffffff;
 }
 
 .peddana-regular {
@@ -55,3 +55,24 @@ footer {
 }
 
 .titulo-site{font-family: var(--fonte-principal);}
+
+.imagem1{
+    width: 700px;
+}
+
+.dupla{
+    width: 400px
+}
+
+.loira{
+    width: 190px;
+}
+.angelina{
+    width: 300px;
+}
+.chanel{
+    width: 365px
+}
+.redondo{
+    width: 450px
+}
